@@ -34,3 +34,5 @@ I am a **Software Engineer** specializing in **AI integration** and **full-stack
 - Building **scalable backend systems** with **MERN** stack, **Elasticsearch**, and **Redis** to optimize data processing and system performance.
 
 ---
+
+
