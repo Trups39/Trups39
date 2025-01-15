@@ -7,12 +7,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
     <p>I am a <strong>Software Engineer</strong> specializing in <strong>AI integration</strong> and <strong>full-stack development</strong>. My expertise lies in building <strong>scalable systems</strong>, integrating <strong>machine learning</strong> models, and leveraging the power of <strong>cloud technologies</strong> to create impactful solutions. ☁️🤖</p>
+    <p>Additionally, I have experience with key technologies such as <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Node.js</strong>, which help me create dynamic, efficient, and modern applications.</p>
   </div>
   <div style="flex-shrink: 0;">
     <img alt="GIF" src="./code.gif" width="500" height="320" />
   </div>
 </div>
-
 
 ### What drives me? 🚀
 - **Constantly learning** 📚 — I believe the journey of growth never ends, and every challenge is an opportunity to discover something new.
