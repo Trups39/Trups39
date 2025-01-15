@@ -3,6 +3,7 @@
 🎓 **Syracuse University Master's in Computer Science 2024** 🍊 | **AI & Full-Stack Developer**  
 
 ---
+![Trupti's Coding Adventure](code.gif)
 
 ## 💡 About Me 💡
 
