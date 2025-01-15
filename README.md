@@ -41,5 +41,5 @@ I am a **Software Engineer** specializing in **AI integration** and **full-stack
 
 If you're interested in collaborating on exciting projects, or if you'd like to chat about **AI**, **web development**, or any other tech-related topics, feel free to reach out!
 
-🔗 [Connect with me on LinkedIn](linkedin.com/in/truptibhosale963/)
+🔗 [Connect with me on LinkedIn] (https://www.linkedin.com/in/truptibhosale963/)
 
