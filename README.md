@@ -6,8 +6,8 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <p>I am a <strong>Software Engineer</strong> specializing in <strong>AI integration</strong> and <strong>full-stack development</strong>. My expertise lies in building <strong>scalable systems</strong>, integrating <strong>machine learning</strong> models, and leveraging the power of <strong>cloud technologies</strong> to create impactful solutions. ☁️🤖</p>
-    <p>Additionally, I have experience with key technologies such as <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Node.js</strong>, which help me create dynamic, efficient, and modern applications.</p>
+    <p>I’m a <strong>Software Engineer</strong> with a knack for integrating <strong>AI</strong> and mastering <strong>full-stack development</strong>. My expertise? Building <strong>scalable systems</strong>, implementing <strong>machine learning models</strong>, and leveraging the <strong>cloud</strong> to create solutions that actually make a difference. ☁️🤖</p>
+    <p>I’m also well-versed in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Node.js</strong> — crafting dynamic, efficient applications that meet today’s tech demands. Always up for a challenge and ready to bring the next big idea to life! 💻✨</p>
   </div>
   <div style="flex-shrink: 0;">
     <img alt="GIF" src="./code.gif" width="500" height="320" />
