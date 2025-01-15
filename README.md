@@ -2,11 +2,17 @@
 
 🎓 **Syracuse University Master's in Computer Science 2024** 🍊 | **AI & Full-Stack Developer**  
 
----
-
 ## 💡 About Me 💡
 
-I am a **Software Engineer** specializing in **AI integration** and **full-stack development**. My expertise lies in building **scalable systems**, integrating **machine learning** models, and leveraging the power of **cloud technologies** to create impactful solutions. ☁️🤖
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+    <p>I am a <strong>Software Engineer</strong> specializing in <strong>AI integration</strong> and <strong>full-stack development</strong>. My expertise lies in building <strong>scalable systems</strong>, integrating <strong>machine learning</strong> models, and leveraging the power of <strong>cloud technologies</strong> to create impactful solutions. ☁️🤖</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img alt="GIF" src="./code.gif" width="500" height="320" />
+  </div>
+</div>
+
 
 ### What drives me? 🚀
 - **Constantly learning** 📚 — I believe the journey of growth never ends, and every challenge is an opportunity to discover something new.
