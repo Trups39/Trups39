@@ -1,19 +1,18 @@
-# 👋 Hello, I'm [Trupti Bhosale] 👨‍💻
+# console.log("👋 Hello, I'm [Trupti Bhosale] 👨‍💻");
 
 🎓 **Syracuse University Master's in Computer Science 2024** 🍊 | **AI & Full-Stack Developer**  
 
 ---
-![Trupti's Coding Adventure](code.gif)
 
 ## 💡 About Me 💡
 
-I am a **Software Engineer** specializing in **AI integration** and **full-stack development**. My expertise lies in building **scalable systems**, integrating **machine learning** models, and leveraging the power of **cloud technologies** to create impactful solutions.
+I am a **Software Engineer** specializing in **AI integration** and **full-stack development**. My expertise lies in building **scalable systems**, integrating **machine learning** models, and leveraging the power of **cloud technologies** to create impactful solutions. ☁️🤖
 
-### What drives me?
-- **Constantly learning** — I believe the journey of growth never ends, and every challenge is an opportunity to discover something new.
-- **Curiosity is my superpower** — Whether it’s diving deep into a new framework or solving a tricky bug, I always enjoy the thrill of exploration.
-- **Persistence is key** — I take pride in finding elegant solutions even when faced with the toughest coding challenges.
-- **Creative problem-solving** — I love thinking outside the box to create solutions that are not only effective but also impactful.
+### What drives me? 🚀
+- **Constantly learning** 📚 — I believe the journey of growth never ends, and every challenge is an opportunity to discover something new.
+- **Curiosity is my superpower** 🕵️‍♂️ — Whether it’s diving deep into a new framework or solving a tricky bug, I always enjoy the thrill of exploration.
+- **Persistence is key** 🔑 — I take pride in finding elegant solutions even when faced with the toughest coding challenges.
+- **Creative problem-solving** 💡 — I love thinking outside the box to create solutions that are not only effective but also impactful.
 
 ---
 
@@ -30,9 +29,9 @@ I am a **Software Engineer** specializing in **AI integration** and **full-stack
 
 ---
 
-### Current Focus:
-- Working on **AI integration** in web applications through **LLM-based prompt engineering**.
-- Building **scalable backend systems** with **MERN** stack, **Elasticsearch**, and **Redis** to optimize data processing and system performance.
+### Current Focus: 🎯
+- Working on **AI integration** 🤖 in web applications through **LLM-based prompt engineering** 🧠.
+- Building **scalable backend systems** 🔧 with **MERN** stack 🖥️, **Elasticsearch** 🔍, and **Redis** 🧑‍💻 to optimize data processing and system performance ⚡.
 
 ---
 
