@@ -7,7 +7,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
     <p>I’m a <strong>Software Engineer</strong> with a knack for integrating <strong>AI</strong> and mastering <strong>full-stack development</strong>. My expertise? Building <strong>scalable systems</strong>, implementing <strong>machine learning models</strong>, and leveraging the <strong>cloud</strong> to create solutions that actually make a difference. ☁️🤖</p>
-    <p>I’m also well-versed in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Node.js</strong> — crafting dynamic, efficient applications that meet today’s tech demands. Always up for a challenge and ready to bring the next big idea to life! 💻✨</p>
+    <p>I’m also well-versed in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Python</strong> — crafting dynamic, efficient applications that meet today’s tech demands. Always up for a challenge and ready to bring the next big idea to life! 💻✨</p>
   </div>
   <div style="flex-shrink: 0;">
     <img alt="GIF" src="./code.gif" width="500" height="320" />
