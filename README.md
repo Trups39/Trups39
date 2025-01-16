@@ -7,7 +7,7 @@
 <strong>const aboutMeContent = {
 intro:</strong> "My Master’s journey in Computer Science at Syracuse University has been a cornerstone of my passion for innovative problem-solving and programming 👩🏻‍💻🍊.",
   
-  <strong>expertise:</strong> `I honed my expertise in full-stack development, cloud-native(AWS) solutions, microservices architecture, and end-to-end software delivery. My experience spans technologies like Java, Spring Boot, React, Redux, Next.js, ElasticSearch, JavaScript, SQL, MongoDB, Jenkins, Node.js, Docker, and Kubernetes. I leveraged Agile methodologies and CI/CD pipelines to design and deploy scalable, efficient solutions ⚙️💻, always focusing on delivering high-quality, impactful products that meet real-world needs.`,
+  <strong>expertise:</strong> `I honed my expertise in full-stack development, cloud-native(AWS) solutions, microservices architecture, building AI models and end-to-end software delivery. My experience spans technologies like Java, Spring Boot, React, Redux, Next.js, ElasticSearch, JavaScript, Python, SQL, MongoDB, Jenkins, Node.js, Docker, and Kubernetes. I leveraged Agile methodologies and CI/CD pipelines to design and deploy scalable, efficient solutions ⚙️💻, always focusing on delivering high-quality, impactful products that meet real-world needs.`,
   
   <strong>craft:</strong> "Coding is more than a career—it's my craft and a gateway to driving impactful innovation 🚀.",
   
