@@ -4,22 +4,21 @@
 
 ## 💡 About Me 💡
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: left;">
-    <p>I’m a <strong>Software Engineer</strong> with a knack for integrating <strong>AI</strong> and mastering <strong>full-stack development</strong>. My expertise? Building <strong>scalable systems</strong>, implementing <strong>machine learning models</strong>, and leveraging the <strong>cloud</strong> to create solutions that actually make a difference. ☁️🤖</p>
-    <p>I’m also well-versed in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Python</strong> — crafting dynamic, efficient applications that meet today’s tech demands. Always up for a challenge and ready to bring the next big idea to life! 💻✨</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img alt="GIF" src="./code.gif" width="500" height="320" />
-  </div>
-</div>
+<strong>const aboutMeContent = {
+intro:</strong> "My Master’s journey in Computer Science at Syracuse University has been a cornerstone of my passion for innovative problem-solving and programming 👩🏻‍💻🍊.",
+  
+  <strong>expertise:</strong> `I honed my expertise in full-stack development, cloud-native(AWS) solutions, microservices architecture, and end-to-end software delivery. My experience spans technologies like Java, Spring Boot, React, Redux, Next.js, ElasticSearch, JavaScript, SQL, MongoDB, Jenkins, Node.js, Docker, and Kubernetes. I leveraged Agile methodologies and CI/CD pipelines to design and deploy scalable, efficient solutions ⚙️💻, always focusing on delivering high-quality, impactful products that meet real-world needs.`,
+  
+  <strong>craft:</strong> "Coding is more than a career—it's my craft and a gateway to driving impactful innovation 🚀.",
+  
+  <strong>seekingOpportunities:</strong> "I’m actively seeking opportunities as a Full Stack Engineer, Software Engineer, FullStack AI Engineer or Backend Developer 🌱"
+<strong>};</strong>
 
 ### What drives me? 🚀
-- **Constantly learning** 📚 — I believe the journey of growth never ends, and every challenge is an opportunity to discover something new.
-- **Curiosity is my superpower** 🕵️‍♂️ — Whether it’s diving deep into a new framework or solving a tricky bug, I always enjoy the thrill of exploration.
-- **Persistence is key** 🔑 — I take pride in finding elegant solutions even when faced with the toughest coding challenges.
-- **Creative problem-solving** 💡 — I love thinking outside the box to create solutions that are not only effective but also impactful.
-
+- **Constantly learning** 📚
+- **Curiosity is my superpower** 🕵️‍♂️ 
+- **Persistence is key** 🔑 
+- **Creative problem-solving** 💡
 ---
 
 ## ⚙️ My Tech Stack ⚙️
@@ -32,12 +31,6 @@
 
 ### Cloud, DevOps OS & Monitoring Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23F2F2F2?style=flat&logo=jenkins&logoColor=black) ![Datadog](https://img.shields.io/badge/Datadog-%23FF5C35?style=flat&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-%230E3A8E?style=flat&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white) ![Linux/Unix](https://img.shields.io/badge/Linux/Unix-%23FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### Current Focus: 🎯
-- Working on **AI integration** 🤖 in web applications through **LLM-based prompt engineering** 🧠.
-- Building **scalable backend systems** 🔧 with **MERN** stack 🖥️, **Elasticsearch** 🔍, and **Redis** 🧑‍💻 to optimize data processing and system performance ⚡.
 
 ---
 
